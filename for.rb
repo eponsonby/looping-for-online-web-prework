@@ -4,3 +4,4 @@ def using_for
 	for item in checklist do
 	puts "Wingardium Leviosa"
 end
+end
